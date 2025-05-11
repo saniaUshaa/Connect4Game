@@ -1,0 +1,16 @@
+       Board Size:5x6
+Winner: Tie
+Player Moves: 14
+AI Moves: 13
+AI Optimal Moves: 0
+AI Blocking Moves: 0
+Game Duration: 23 sec
+-------------------------------------
+       Board Size:8x10
+Winner: AI
+Player Moves: 6
+AI Moves: 7
+AI Optimal Moves: 1
+AI Blocking Moves: 0
+Game Duration: 11 sec
+-------------------------------------
